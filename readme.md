@@ -6,7 +6,7 @@ This documentation is describe how Auth Work, How handling read, update, and des
 Assalaamualaikum.
 
 Berikut hasil pekerjaan test lumen check list:
-https://github.com/mulyawansentosa/lumenchecklist
+https://github.com/adityasubono/checklist
 
 ---------------------------
 Cara Penggunaan:
@@ -52,12 +52,8 @@ Fitur:
 
 Mohon maaf masih banyak kekurangan. Mohon koreksi dan bimbingannya. Terima kasih.
 
-## API Documentation
-https://documenter.getpostman.com/view/6379231/S1TZyFyG?version=latest
-
 ## Testing
-<img src="https://github.com/mulyawansentosa/lumenchecklist/blob/master/images/Testing.png" />
-### Feature Test
+<img src="https://github.com/adityasubono/checklist/blob/master/images/Testing.png" />
 
 #### User
     User Can Register to Application
